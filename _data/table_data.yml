@@ -1,0 +1,50 @@
+- first_name: Jeff
+  last_name: Leboski
+  age: 50
+  class: false
+
+- first_name: Walter
+  last_name: Sobchak
+  age: 50
+  class: false
+
+- first_name: Donald
+  last_name: Kerabatsos
+  age: 50
+  class: false
+ 
+
+- first_name: Jesus
+  last_name: Quintana
+  age: 50
+  class: false
+
+- first_name: Marge
+  last_name: Gunderson
+  age: 50
+  class: false
+
+- first_name: Jerry
+  last_name: Lundegaard
+  age: 50
+  class: true
+
+- first_name: Mike
+  last_name: Yanagita
+  age: 50
+  class: false
+
+- first_name: Shep
+  last_name: Proudfoot
+  age: 50
+  class: active
+
+- first_name: Wade
+  last_name: Gustafson
+  age: 50
+  class: false
+
+- first_name: Gary
+  last_name: Olson
+  age: 50
+  class: false

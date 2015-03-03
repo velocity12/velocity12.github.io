@@ -1,0 +1,47 @@
+---
+# Theme Options loaded from bootswatch.com
+# site_theme: cerulean
+# site_theme: cosmo
+# site_theme: cyborg
+# site_theme: darkly
+# site_theme: flatly
+# site_theme: journal
+# site_theme: lumen
+# site_theme: paper
+# site_theme: readable
+# site_theme: sandstone
+# site_theme: simplex
+# site_theme: slate
+# site_theme: spacelab
+site_theme: superhero
+# site_theme: united
+# site_theme: yeti
+
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+      <div class = "row">
+         <div class="col-md-2 well-lg navigator">{% include navigation.html %}</div>
+          <div id = "main-content" class="col-md-10">
+        {% include header.html %}
+
+        <div class="page-content">
+         <div class="wrapper">             
+          {{ content }}
+          </div>
+         </div> 
+          {% include footer.html %}
+
+        </div> 
+
+        </body>
+
+
+</div>
+
+</html>
