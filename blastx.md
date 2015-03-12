@@ -5,3 +5,4 @@ permalink: /BOOSTx/
 requires-navbar: "yes"
 ---
 
+{% include data_entry.html %}

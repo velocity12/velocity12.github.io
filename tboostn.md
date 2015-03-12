@@ -5,3 +5,4 @@ permalink: /tBOOSTn/
 requires-navbar: "yes"
 ---
 
+{% include data_entry.html %}
