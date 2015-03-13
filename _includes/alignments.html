@@ -1,0 +1,26 @@
+
+ <table  class="table table-hover table-bordered">
+  <tr>
+    <th></th>
+    <th>Description</th>
+    <th>Max Score</th>
+    <th>Total Score</th>
+    <th>Query Cover</th>
+    <th>E value</th>
+    <th>Ident</th>
+    <th>Accesion</th>
+  </tr>
+  {% for alignment in site.data.alignments %}
+      <tr class="{{person.class}}">
+        <td><input type="checkbox"/></td>
+        <td><a href="#"> {{ alignment.description }}</a></td>
+        <td>{{ alignment.max_score }}</td>
+        <td>{{ alignment.total_score }}</td>
+        <td>{{ alignment.query_cover }}</td>
+        <td>{{ alignment.e_value }}</td>
+        <td>{{ alignment.ident }}</td>
+        <td>{{ alignment.accession_number }}</td>
+      </tr>
+  {% endfor %}
+
+</table> 

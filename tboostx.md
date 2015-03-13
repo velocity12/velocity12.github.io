@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TBOOSTX search translated nucleotide databases using a protein query.
+title: TBOOSTX search translated nucleotide databases using a translated nucleotide query.
 permalink: /tBOOSTx/
 requires-navbar: "yes"
 ---

@@ -1,0 +1,56 @@
+- description: "Synthetic construct Homo sapiens clone ccsbBroadEn_00347 CORT gene, encodes complete protein"
+  max_score: "161"
+  total_score: "161"
+  query_cover: "100%"
+  e_value: "1e-36"
+  ident: 100%
+  accession_number: "KJ_004024365"
+
+
+- description: "Homo sapiens cortistatin (CORT), mRNA	"
+  max_score: "161"
+  total_score: "161"
+  query_cover: "100%"
+  e_value: "1e-36"
+  ident: 100%
+  accession_number: "PQ_004024365"
+
+- description: "Synthetic construct DNA, clone: pFN21AE1641, Homo sapiens CORT gene for cortistatin, without stop codon, in Flexi system"
+  max_score: "161"
+  total_score: "161"
+  query_cover: "100%"
+  e_value: "1e-36"
+  ident: 100%
+  accession_number: "RS_004024365"
+
+- description: "Homo sapiens cortistatin, mRNA (cDNA clone MGC:149758 IMAGE:4011890), complete cds"
+  max_score: "161"
+  total_score: "161"
+  query_cover: "100%"
+  e_value: "1e-36"
+  ident: 100%
+  accession_number: "TY_004024365"
+
+- description: "Homo sapiens cortistatin, mRNA (cDNA clone MGC:149756 IMAGE:40118115), complete cds"
+  max_score: "161"
+  total_score: "161"
+  query_cover: "100%"
+  e_value: "1e-36"
+  ident: 100%
+  accession_number: "ST_004024365"
+
+- description: "PREDICTED: Chlorocebus sabaeus cortistatin (CORT), transcript variant X2, mRNA"
+  max_score: "122"
+  total_score: "122"
+  query_cover: "100%"
+  e_value: "5e-25"
+  ident: 93%
+  accession_number: "XM_004024365"
+
+- description: "PREDICTED: Otolemur garnettii cortistatin (CORT), mRNA"
+  max_score: "106"
+  total_score: "106"
+  query_cover: "82%"
+  e_value: "5e-25"
+  ident: 93%
+  accession_number: "PQ_004024365"

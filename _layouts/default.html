@@ -1,10 +1,10 @@
 ---
 # Theme Options loaded from bootswatch.com
-# site_theme: cerulean
+site_theme: cerulean
 # site_theme: cosmo
 # site_theme: cyborg
 # site_theme: darkly
-site_theme: flatly
+# site_theme: flatly
 # site_theme: journal
 # site_theme: lumen
 # site_theme: paper
@@ -27,7 +27,8 @@ site_theme: flatly
 
   <body>
       <div class = "row">
-         <div class="col-md-2 well-lg navigator">{% include navigation.html %}</div>
+         <div class="col-md-2  navigator"><div style = "padding-left:6px">
+  {% include navigation.html %}</div></div>
           <div id = "main-content" class="col-md-10">
         {% include header.html %}
 
